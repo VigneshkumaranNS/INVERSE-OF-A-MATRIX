@@ -23,7 +23,7 @@ B = np.linalg.inv(A)
 print(B)
 ```
 ## Output:
-![input12](inverse.png)
+![input12](inverse1.png)
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
